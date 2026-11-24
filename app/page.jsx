@@ -1,4 +1,5 @@
 'use client';
+import Partners from './Partners';
 import {useState,useEffect} from 'react';
 import {labels,copy,languages} from '../lib/content';
 import seed from '../lib/seed.json';
@@ -33,5 +34,5 @@ export default function Home(){
  <section id="wesprzyj" className="wrap section support"><div><span className="eyebrow blue">06 / LUBAWCZANIE</span><h2>{t[5]}</h2><p>{c.support}</p></div><div className="account"><small>{t[21]}</small><strong>{bank}</strong><button className="btn" onClick={async()=>{try{await navigator.clipboard.writeText(bank.replaceAll(' ',''));C(true)}catch{C(false)}}}>{copied?t[20]:t[19]}</button></div></section>
  <section id="kontakt" className="contact"><div className="wrap split"><div><span className="eyebrow blue">07 / LUBAWCZANIE</span><h2>{t[6]}</h2><p><strong>Stowarzyszenie Lubawczanie</strong><br/>ul. Kamiennogórska 19<br/>58-420 Lubawka</p><p>KRS 0001065939 · NIP 6141618656<br/>REGON 526773999</p></div><div className="contact-links"><a href={'mailto:'+email}>{email}</a><a href="tel:+48606972489">+48 606 972 489</a><a href="https://www.facebook.com/StowarzyszenieLubawczanie" target="_blank" rel="noopener noreferrer">Facebook ↗</a></div></div></section>
  <section id="prywatnosc" className="wrap privacy"><details><summary>{t[23]}</summary><p>{c.privacy}</p></details></section>
- </main><footer><div className="wrap"><strong>STOWARZYSZENIE LUBAWCZANIE</strong><span>© {new Date().getFullYear()} · <a href="/admin">CMS</a></span></div><div className="wrap"><span style={{width:'100%',textAlign:'center',borderTop:'1px solid #ffffff26',paddingTop:16,marginTop:16,fontSize:12,color:'#dce7eb'}}>{({pl:'Projekt i realizacja:',cs:'Návrh a realizace:',de:'Gestaltung und Umsetzung:',en:'Design and development:'})[lang]} <strong style={{letterSpacing:1,color:'#fff'}}>ERSI CREATIVE STUDIO</strong></span></div></footer></>;
+ </main><footer><Partners lang={lang}/><div className="wrap"><strong>STOWARZYSZENIE LUBAWCZANIE</strong><span>© {new Date().getFullYear()} · <a href="/admin">CMS</a></span></div><div className="wrap"><span style={{width:'100%',textAlign:'center',borderTop:'1px solid #ffffff26',paddingTop:16,marginTop:16,fontSize:12,color:'#dce7eb'}}>{({pl:'Projekt i realizacja:',cs:'Návrh a realizace:',de:'Gestaltung und Umsetzung:',en:'Design and development:'})[lang]} <strong style={{letterSpacing:1,color:'#fff'}}>ERSI CREATIVE STUDIO</strong></span></div></footer></>;
 }

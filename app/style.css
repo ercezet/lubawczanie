@@ -7,3 +7,11 @@ dialog.detail{border:0;color:var(--ink);position:fixed;inset:0;margin:auto}dialo
 
 /* Full-width project funding strip; preserve the complete original artwork. */
 .project-funding-banner.bottom{display:block;width:min(1200px,92vw);max-width:none;height:auto;position:relative;left:50%;transform:translateX(-50%);margin:44px 0 32px;padding:0;border:0;border-radius:0;object-fit:contain;background:#fff}.project-funding-banner.top{max-width:none;padding:0;border:0;border-radius:0}
+
+footer .footer-partners { display:block; padding-block:12px 32px; margin-bottom:22px; border-bottom:1px solid #ffffff26; }
+.footer-partners h2 { margin:0 0 22px; color:white; font-size:1rem; text-transform:uppercase; letter-spacing:.12em; }
+.footer-partners ul { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); align-items:center; gap:24px; padding:0; margin:0; list-style:none; }
+.footer-partners a { display:flex; justify-content:center; align-items:center; min-height:80px; }
+.footer-partners a:focus-visible { outline:2px solid white; outline-offset:4px; }
+.footer-partners img { display:block; width:auto; height:auto; max-width:100%; max-height:78px; filter:brightness(0) invert(1); }
+@media(max-width:700px) { .footer-partners ul { grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px 24px; } .footer-partners img { max-height:64px; } }
