@@ -1,0 +1,191 @@
+[
+  {
+    "id": "mindfulness",
+    "kind": "project",
+    "status": "done",
+    "date": null,
+    "funding": null,
+    "translations": {
+      "pl": {
+        "title": "Mindfulness",
+        "body": "Zrealizowany projekt związany z uważnym odpoczynkiem i rekreacją w regionie Lubawki."
+      },
+      "cs": {
+        "title": "Mindfulness",
+        "body": "Dokončený projekt zaměřený na vědomý odpočinek a rekreaci v okolí Lubawky."
+      },
+      "de": {
+        "title": "Mindfulness",
+        "body": "Abgeschlossenes Projekt zur achtsamen Erholung in der Region Lubawka."
+      },
+      "en": {
+        "title": "Mindfulness",
+        "body": "A completed project focused on mindful relaxation and recreation in the Lubawka region."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "ekolubawczanie",
+    "kind": "project",
+    "status": "done",
+    "date": "2025-10-15",
+    "funding": null,
+    "translations": {
+      "pl": {
+        "title": "EkoLubawczanie – Tworzymy Zieloną Przyszłość Razem!",
+        "body": "Projekt programu „Działaj Lokalnie” obejmował warsztaty ekologiczne dla różnych pokoleń, kosze do segregacji odpadów, tablicę edukacyjną i mały ogród społeczny przy placu zabaw przy ul. Bocznej. Spotkanie podsumowujące zaplanowano na 15 października 2025 r. Dofinansowanie: Program „Działaj Lokalnie” Polsko-Amerykańskiej Fundacji Wolności, realizowany przez Akademię Rozwoju Filantropii w Polsce oraz ODL – Stowarzyszenie „Granica” w Lubawce."
+      },
+      "cs": {
+        "title": "EkoLubawczanie – Tvoříme zelenou budoucnost společně!",
+        "body": "Projekt programu Działaj Lokalnie zahrnoval ekologické workshopy, nádoby na tříděný odpad, vzdělávací tabuli a malou komunitní zahradu u hřiště v ulici Boczna. Závěrečné setkání bylo plánováno na 15. října 2025. Podpora: program Działaj Lokalnie Polsko-americké nadace svobody, Akademia Rozwoju Filantropii w Polsce a spolek Granica."
+      },
+      "de": {
+        "title": "EkoLubawczanie – Gemeinsam gestalten wir eine grüne Zukunft!",
+        "body": "Das Programm Działaj Lokalnie ermöglichte Umweltworkshops, Abfalltrennbehälter, eine Lehrtafel und einen kleinen Gemeinschaftsgarten am Spielplatz in der Boczna-Straße. Der Abschluss war für den 15. Oktober 2025 geplant. Förderung: Działaj Lokalnie der Polnisch-Amerikanischen Freiheitsstiftung, Akademia Rozwoju Filantropii w Polsce und Verein Granica."
+      },
+      "en": {
+        "title": "EkoLubawczanie – Creating a green future together!",
+        "body": "The Działaj Lokalnie project included environmental workshops, recycling bins, an educational board and a small community garden at the playground on Boczna Street. The closing event was scheduled for 15 October 2025. Supported by the Polish-American Freedom Foundation’s Działaj Lokalnie programme, Akademia Rozwoju Filantropii w Polsce and the Granica association."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "swieta-gora",
+    "kind": "project",
+    "status": "active",
+    "date": null,
+    "funding": 91560,
+    "translations": {
+      "pl": {
+        "title": "Rewitalizacja i zabezpieczenie kapliczki Koronowania Chrystusa na św. Górze w Lubawce",
+        "body": "Podpisano umowę na zabezpieczenie jednej z siedmiu kapliczek na Świętej Górze. Zakres obejmuje roboty rozbiórkowe, tynki, konstrukcję i pokrycie dachu, drewniany strop oraz odwodnienie przy cokole. Projekt wybrany przez LGD „Kwiat Lnu”, finansowany z EFRROW i krajowych środków publicznych w ramach LEADER/RLKS. Partnerstwo: Nadleśnictwo Kamienna Góra. Termin graniczny: 30 czerwca 2029 r.; wniosek o płatność planowany na sierpień 2027 r."
+      },
+      "cs": {
+        "title": "Obnova a zabezpečení kaple Korunování Krista na Svaté hoře v Lubawce",
+        "body": "Byla podepsána smlouva na zabezpečení jedné ze sedmi kaplí. Práce zahrnují demontáž, omítky, střechu, dřevěný strop a odvodnění. Projekt vybrala LGD Kwiat Lnu; financování z EZFRV a národních veřejných prostředků v rámci LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Nejzazší termín 30. června 2029; žádost o platbu plánována na srpen 2027."
+      },
+      "de": {
+        "title": "Sanierung und Sicherung der Kapelle der Dornenkrönung Christi auf dem Heiligen Berg in Lubawka",
+        "body": "Ein Vertrag zur Sicherung einer von sieben Kapellen wurde geschlossen. Die Arbeiten umfassen Rückbau, Putz, Dach, Holzdecke und Entwässerung. Auswahl durch LGD Kwiat Lnu; Förderung aus ELER und nationalen öffentlichen Mitteln über LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Spätester Termin 30. Juni 2029; Zahlungsantrag für August 2027 geplant."
+      },
+      "en": {
+        "title": "Restoration and protection of the Crowning of Christ chapel on Holy Mountain in Lubawka",
+        "body": "An agreement has been signed to protect one of seven chapels. Works include demolition, plaster, roof structure and covering, timber ceiling and drainage. Selected by LGD Kwiat Lnu and funded through EAFRD and national public funds under LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Final deadline 30 June 2029; payment application planned for August 2027."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "bezpieczny-uczestnik",
+    "kind": "project",
+    "status": "funded",
+    "date": null,
+    "funding": 30000,
+    "translations": {
+      "pl": {
+        "title": "Bezpieczny uczestnik ruchu drogowego",
+        "body": "Fundusz Toyoty przyznał 30 000 zł na stworzenie przestrzeni do praktycznej nauki zasad ruchu drogowego przy Zespole Szkolno-Przedszkolnym w Lubawce. Celem jest poprawa bezpieczeństwa dzieci i młodzieży."
+      },
+      "cs": {
+        "title": "Bezpečný účastník silničního provozu",
+        "body": "Fond Toyota poskytl 30 000 PLN na vytvoření prostoru pro praktickou výuku pravidel silničního provozu u školy v Lubawce. Cílem je bezpečnost dětí a mládeže."
+      },
+      "de": {
+        "title": "Sichere Teilnahme am Straßenverkehr",
+        "body": "Der Toyota-Fonds bewilligte 30.000 PLN für einen Verkehrstrainingsplatz an der Schule in Lubawka. Ziel ist mehr Sicherheit für Kinder und Jugendliche."
+      },
+      "en": {
+        "title": "Safe road user",
+        "body": "The Toyota Fund awarded PLN 30,000 to create a practical road safety learning area at the school and preschool complex in Lubawka, improving safety for children and young people."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "umowa-leader",
+    "kind": "news",
+    "status": "active",
+    "date": null,
+    "funding": null,
+    "translations": {
+      "pl": {
+        "title": "Rewitalizacja i zabezpieczenie kapliczki Koronowania Chrystusa na św. Górze w Lubawce",
+        "body": "Podpisano umowę na zabezpieczenie jednej z siedmiu kapliczek na Świętej Górze. Zakres obejmuje roboty rozbiórkowe, tynki, konstrukcję i pokrycie dachu, drewniany strop oraz odwodnienie przy cokole. Projekt wybrany przez LGD „Kwiat Lnu”, finansowany z EFRROW i krajowych środków publicznych w ramach LEADER/RLKS. Partnerstwo: Nadleśnictwo Kamienna Góra. Termin graniczny: 30 czerwca 2029 r.; wniosek o płatność planowany na sierpień 2027 r."
+      },
+      "cs": {
+        "title": "Obnova a zabezpečení kaple Korunování Krista na Svaté hoře v Lubawce",
+        "body": "Byla podepsána smlouva na zabezpečení jedné ze sedmi kaplí. Práce zahrnují demontáž, omítky, střechu, dřevěný strop a odvodnění. Projekt vybrala LGD Kwiat Lnu; financování z EZFRV a národních veřejných prostředků v rámci LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Nejzazší termín 30. června 2029; žádost o platbu plánována na srpen 2027."
+      },
+      "de": {
+        "title": "Sanierung und Sicherung der Kapelle der Dornenkrönung Christi auf dem Heiligen Berg in Lubawka",
+        "body": "Ein Vertrag zur Sicherung einer von sieben Kapellen wurde geschlossen. Die Arbeiten umfassen Rückbau, Putz, Dach, Holzdecke und Entwässerung. Auswahl durch LGD Kwiat Lnu; Förderung aus ELER und nationalen öffentlichen Mitteln über LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Spätester Termin 30. Juni 2029; Zahlungsantrag für August 2027 geplant."
+      },
+      "en": {
+        "title": "Restoration and protection of the Crowning of Christ chapel on Holy Mountain in Lubawka",
+        "body": "An agreement has been signed to protect one of seven chapels. Works include demolition, plaster, roof structure and covering, timber ceiling and drainage. Selected by LGD Kwiat Lnu and funded through EAFRD and national public funds under LEADER/RLKS. Partner: Nadleśnictwo Kamienna Góra. Final deadline 30 June 2029; payment application planned for August 2027."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "fundusz-toyoty",
+    "kind": "news",
+    "status": "funded",
+    "date": null,
+    "funding": null,
+    "translations": {
+      "pl": {
+        "title": "Bezpieczny uczestnik ruchu drogowego",
+        "body": "Fundusz Toyoty przyznał 30 000 zł na stworzenie przestrzeni do praktycznej nauki zasad ruchu drogowego przy Zespole Szkolno-Przedszkolnym w Lubawce. Celem jest poprawa bezpieczeństwa dzieci i młodzieży."
+      },
+      "cs": {
+        "title": "Bezpečný účastník silničního provozu",
+        "body": "Fond Toyota poskytl 30 000 PLN na vytvoření prostoru pro praktickou výuku pravidel silničního provozu u školy v Lubawce. Cílem je bezpečnost dětí a mládeže."
+      },
+      "de": {
+        "title": "Sichere Teilnahme am Straßenverkehr",
+        "body": "Der Toyota-Fonds bewilligte 30.000 PLN für einen Verkehrstrainingsplatz an der Schule in Lubawka. Ziel ist mehr Sicherheit für Kinder und Jugendliche."
+      },
+      "en": {
+        "title": "Safe road user",
+        "body": "The Toyota Fund awarded PLN 30,000 to create a practical road safety learning area at the school and preschool complex in Lubawka, improving safety for children and young people."
+      }
+    },
+    "image": "",
+    "published": true
+  },
+  {
+    "id": "podsumowanie-eko",
+    "kind": "news",
+    "status": "done",
+    "date": "2025-10-09",
+    "funding": null,
+    "translations": {
+      "pl": {
+        "title": "Podsumowanie EkoLubawczanie",
+        "body": "Projekt programu „Działaj Lokalnie” obejmował warsztaty ekologiczne dla różnych pokoleń, kosze do segregacji odpadów, tablicę edukacyjną i mały ogród społeczny przy placu zabaw przy ul. Bocznej. Spotkanie podsumowujące zaplanowano na 15 października 2025 r. Dofinansowanie: Program „Działaj Lokalnie” Polsko-Amerykańskiej Fundacji Wolności, realizowany przez Akademię Rozwoju Filantropii w Polsce oraz ODL – Stowarzyszenie „Granica” w Lubawce."
+      },
+      "cs": {
+        "title": "Shrnutí EkoLubawczanie",
+        "body": "Projekt programu Działaj Lokalnie zahrnoval ekologické workshopy, nádoby na tříděný odpad, vzdělávací tabuli a malou komunitní zahradu u hřiště v ulici Boczna. Závěrečné setkání bylo plánováno na 15. října 2025. Podpora: program Działaj Lokalnie Polsko-americké nadace svobody, Akademia Rozwoju Filantropii w Polsce a spolek Granica."
+      },
+      "de": {
+        "title": "Abschluss von EkoLubawczanie",
+        "body": "Das Programm Działaj Lokalnie ermöglichte Umweltworkshops, Abfalltrennbehälter, eine Lehrtafel und einen kleinen Gemeinschaftsgarten am Spielplatz in der Boczna-Straße. Der Abschluss war für den 15. Oktober 2025 geplant. Förderung: Działaj Lokalnie der Polnisch-Amerikanischen Freiheitsstiftung, Akademia Rozwoju Filantropii w Polsce und Verein Granica."
+      },
+      "en": {
+        "title": "EkoLubawczanie project summary",
+        "body": "The Działaj Lokalnie project included environmental workshops, recycling bins, an educational board and a small community garden at the playground on Boczna Street. The closing event was scheduled for 15 October 2025. Supported by the Polish-American Freedom Foundation’s Działaj Lokalnie programme, Akademia Rozwoju Filantropii w Polsce and the Granica association."
+      }
+    },
+    "image": "",
+    "published": true
+  }
+]
